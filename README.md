@@ -1,6 +1,6 @@
 # Skyhook: Duel for the Skies
 
-**Skyhook** is a fast-paced two-player game set in a futuristic space cargo network. Players race to visit and control "hooks" — critical nodes of the Skyhook system.
+**Skyhook** is a fast-paced two-player game set in a futuristic space cargo network. Players race to visit and control rotating "hooks" — critical nodes of the Skyhook system.
 
 ## Gameplay
 
@@ -32,3 +32,5 @@ Who will control the skies? 🚀
 Player 1: Press A to release cargo, press S to reset.
 
 Player 2: Press L to release cargo, press K to reset.
+
+Inspiration from: https://www.youtube.com/watch?v=dqwpQarrDwk
