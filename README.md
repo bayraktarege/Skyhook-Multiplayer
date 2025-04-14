@@ -1,14 +1,32 @@
-Skyhook: Duel for the Skies
+# Skyhook: Duel for the Skies
 
-In Skyhook, two players race against each other across a futuristic space cargo grid, battling for control of vital "hooks" — the nodes of a giant orbital delivery system.
+**Skyhook** is a fast-paced two-player game set in a futuristic space cargo network. Players race to visit and control "hooks" — critical nodes of the Skyhook system.
 
-Each player takes turns visiting hooks scattered across the field. The goal? Visit as many hooks as possible before the last one is claimed. But there's a twist: if your opponent touches a hook you've visited, it flips to their side!
+## Gameplay
 
-This dynamic tug-of-war means the leading player must balance speed and strategy — rush to finish the game, and risk giving your rival time to steal hooks back; wait too long, and the tides could turn!
+- Two players compete to visit all the hooks scattered across the field.
+- Each hook visited is claimed by the player.
+- **Twist:** If an opponent visits a hook you've claimed, it flips to their side!
+- The game ends when all hooks have been visited.
+- The player who controls the most hooks at the end wins.
 
-Quick, tactical, and fiercely competitive, Skyhook turns every second into a high-stakes race for dominance among the stars. Who will control the skies?
+This creates a tense balance:  
+The leading player must finish quickly to prevent a comeback, while the trailing player can turn the tide by stealing hooks before the final move.
 
-Controls:
+## Key Features
+
+- Dynamic territory control
+- Fast-paced competitive matches
+- Risk-reward endgame tension
+
+## Summary
+
+Quick, tactical, and fiercely competitive, **Skyhook** turns every second into a high-stakes race for dominance among the stars.  
+Who will control the skies? 🚀
+
+
+## Controls:
 
 Player 1: Press A to release cargo, press S to reset.
+
 Player 2: Press L to release cargo, press K to reset.
