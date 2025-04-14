@@ -10,6 +10,8 @@
 - The game ends when all hooks have been visited.
 - The player who controls the most hooks at the end wins.
 
+![Skyhook Logo](Skyhook.png)
+
 This creates a tense balance:  
 The leading player must finish quickly to prevent a comeback, while the trailing player can turn the tide by stealing hooks before the final move.
 
