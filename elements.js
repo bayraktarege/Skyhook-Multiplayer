@@ -135,7 +135,7 @@ class Hook{
         this.y = random(400, y-400);
         this.coordinate = createVector(this.x, this.y);
         this.w = random(-0.05, 0.05); // 0.1;
-        this.r = random(r2, r);
+        this.r = random(r, r2);
         this.f = 0;
         this.cargo = null;
         this.released = false;
@@ -200,7 +200,7 @@ class Hook{
             fill(red,green,blue, 55)
             circle(this.coordinate.x,this.coordinate.y, this.r)
             //pop()
-            strokeWeight(6);
+            strokeWeight(3);
             stroke(red,green,blue, 255);
             line(this.coordinate.x,this.coordinate.y,this.hookx,this.hooky);
 
