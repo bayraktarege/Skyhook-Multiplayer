@@ -5,8 +5,8 @@ let n_cargo = 40;
 let n_hooks;
 let cargos = [];
 let hooks = [];
-var r = 100;
-var r2 = 20;
+var r = 10;
+var r2 = 30;
 var l;
 var sizer = 50;
 //var zoff = 0;
@@ -38,7 +38,7 @@ function setup() {
   //let circ1 = new Hook(width, height, r, 0.01);
   //circles.push(circ1);
   
-  n_hooks = 100;
+  n_hooks = 50;
 
   var circle = new Hook(200, height/2, r);
   circle.x = 300;
